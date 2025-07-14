@@ -1,3 +1,4 @@
+#My name is Jacob Baker and this is Chapter 12 Lab 3 which I am revising on July 14
 import requests
 
 # https://api.openweathermap.org/data/2.5/weather?zip=43512,us&appid=46a1ee1f6ca213ffbdb6d80f5096af86&units=imperial
